@@ -22,6 +22,9 @@ The goal of this project is to offer an in-depth analysis of Spotify's 2023 top 
 - **Artist Prominence:** Insights into the most prominent artists and their impact.
 - **Interactive Dashboard:** A user-friendly Power BI dashboard for exploring the data.
 
+### Screenshot:
+![Power BI Dashboard]("C:\Users\ACER\Downloads\hugo_0.124.0_windows-amd64\rashidaghvv\static\covers\spotifydata.jpg")
+
 ## Tools and Technologies
 - **HTML:** For structuring the web components.
 - **Power BI:** For creating interactive visualizations.
@@ -54,7 +57,7 @@ To run this project locally, follow these steps:
 I would like to thank Spotify for providing the data used in this project. Special thanks to the developers of the tools and libraries used, including Power BI, Python, and various Python packages.
 
 ## Contact
-For any questions or suggestions, feel free to reach out to me at rashidaghv@gmail.com.
+For any questions or suggestions, feel free to reach out to me at [your.email@example.com].
 
 ---
 
