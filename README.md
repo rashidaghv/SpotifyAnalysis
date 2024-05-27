@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
 I would like to thank Spotify for providing the data used in this project. Special thanks to the developers of the tools and libraries used, including Power BI, Python, and various Python packages.
 
 ## Contact
-For any questions or suggestions, feel free to reach out to me at [your.email@example.com].
+For any questions or suggestions, feel free to reach out to me at rashidaghv@gmail.com.
 
 ---
 
