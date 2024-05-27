@@ -23,7 +23,7 @@ The goal of this project is to offer an in-depth analysis of Spotify's 2023 top 
 - **Interactive Dashboard:** A user-friendly Power BI dashboard for exploring the data.
 
 ### Screenshot:
-![Power BI Dashboard]("images/spotifydata.jpg")
+![Power BI Dashboard](images/spotifydata.jpg)
 
 ## Tools and Technologies
 - **HTML:** For structuring the web components.
